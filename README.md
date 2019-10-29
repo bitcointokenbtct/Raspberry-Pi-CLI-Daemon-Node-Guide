@@ -7,6 +7,23 @@ Bitcoin Token Raspberry Pi Setup Guide
 
 The following guide will provide the steps needed to run a Bitcoin Token node on your Raspberry Pi computer.
 
+## Hardware and Operating System
+
+Recommended hardware:
+
+https://www.amazon.com/dp/B01N13X8V1/ - Raspberry Pi 3 Model B
+https://amzn.to/2BNQHfm – Kingston Canvas React™ 32GB microSD card
+http://a.co/2c9FFaf – 8-Port Desktop USB Charger Charging Station
+http://a.co/8i5RHU3 – Short USB Cable, (the 10 pack is a good value)
+https://www.amazon.com/dp/B016A90URW/ - 1 foot ethernet (the 10 pack is a good value)
+
+If you do not have an OS loaded on your SD card for your Raspberry Pi computer, then you need to download the image file for Rasbian and write it to your SD card.
+
+Rasbian Download: https://www.raspberrypi.org/downloads/raspbian/
+
+To write the downloaded image file to your SD card you will need this software: https://etcher.io (follow the steps in the software)
+
+
 ## Download and Install
 
 **Step 1:** Open the Terminal Window
