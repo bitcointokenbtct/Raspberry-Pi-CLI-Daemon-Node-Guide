@@ -8,6 +8,7 @@ The following guide will provide the steps needed to run a Bitcoin Token node on
 ## Download and Install
 
 **Step 1:** Open the Terminal Window
+
 To open the terminal on most Raspberry Pi devices, click on the 4th icon to the left on the top bar.
 
 **The remaining steps will all be within the terminal window.**
