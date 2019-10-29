@@ -11,10 +11,10 @@ The following guide will provide the steps needed to run a Bitcoin Token node on
 
 Recommended hardware:
 
-https://www.amazon.com/dp/B01N13X8V1/ - Raspberry Pi 3 Model B
-https://amzn.to/2BNQHfm – Kingston Canvas React™ 32GB microSD card
-http://a.co/2c9FFaf – 8-Port Desktop USB Charger Charging Station
-http://a.co/8i5RHU3 – Short USB Cable, (the 10 pack is a good value)
+https://www.amazon.com/dp/B01N13X8V1/ - Raspberry Pi 3 Model B<br>
+https://amzn.to/2BNQHfm – Kingston Canvas React™ 32GB microSD card<br>
+http://a.co/2c9FFaf – 8-Port Desktop USB Charger Charging Station<br>
+http://a.co/8i5RHU3 – Short USB Cable, (the 10 pack is a good value)<br>
 https://www.amazon.com/dp/B016A90URW/ - 1 foot ethernet (the 10 pack is a good value)
 
 If you do not have an OS loaded on your SD card for your Raspberry Pi computer, then you need to download the image file for Rasbian and write it to your SD card.
