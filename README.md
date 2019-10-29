@@ -59,3 +59,28 @@ crontab -e
 ```
 @reboot /usr/local/bin/btctd
 ```
+
+## CLI Commands
+
+Utilizing the functionality of the wallet when the node is running as a daemon is very easy. Below you will find
+some popular commands that can help you fully utilize your wallet and all features you can find in a GUI version.
+
+```
+btct-cli help
+```
+
+```
+btct-cli getinfo
+```
+
+```
+btct-cli getbalance
+```
+
+```
+btct-cli getnewaddress ""
+```
+
+```
+btct-cli sendtoaddress BSomeBTCTAddress 10000
+```
