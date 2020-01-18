@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/bitcointokenbtct/Official-Images/master/github-header-raspi.jpg">
 
-Bitcoin Token Raspberry Pi Setup Guide
+Bitcoin Token Raspberry Pi CLI Daemon Setup Guide
 ==========================
 
 ## Introduction
