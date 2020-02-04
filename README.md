@@ -34,17 +34,17 @@ To open the terminal on most Raspberry Pi devices, click on the 4th icon to the 
 
 **Step 2:** Download the tarball
 ```
-wget https://github.com/bitcointokenbtct/Bitcoin-Token-Core/releases/download/v1.0.1/btct-arm-linux-gnueabihf.tar.gz
+wget https://github.com/bitcointokenbtct/Bitcoin-Token-Core/releases/download/v1.1/btct-1.1-arm-linux-gnueabihf.tar.gz
 ```
 
 **Step 3:** Untar the downloaded repository 
 ```
-tar xzf btct-arm-linux-gnueabihf.tar.gz
+tar xzf btct-1.1-arm-linux-gnueabihf.tar.gz
 ```
 
 **Step 4:** Copy the files to the local bin. **Requires sudo**
 ```
-sudo cp -R btct/bin/* /usr/local/bin/
+sudo cp -R btct-1.1/bin/* /usr/local/bin/
 ```
 
 **Step 5:** Create the default config file and add the command to start as daemon.
